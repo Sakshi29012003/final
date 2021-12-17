@@ -27,7 +27,7 @@ var num4= req.body.num4;
     service: 'gmail',
       auth: {
         user: 'pallavilokhande0411@gmail.com', // generated ethereal user
-        pass: 'okJanu12@', // generated ethereal password
+       // generated ethereal password
       },
     });
 
